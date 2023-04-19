@@ -3,7 +3,7 @@
 This repository contains code for a simple scroll-based animation made with Three.js. The animation features three 3D objects that rotate and move in response to user scrolling. Additionally, there is a background of particles that respond to mouse movement.
 
 ### Demo
-You can view a live demo [here] (https://anastasiyanikalayeva.github.io/ScrollBaseAnimation/).
+You can view a live demo [here](https://anastasiyanikalayeva.github.io/ScrollBaseAnimation/).
 
 ### Usage
 
